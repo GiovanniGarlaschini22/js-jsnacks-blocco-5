@@ -8,7 +8,9 @@
 ---
 
 ### Snack-2
-
+- Avendo un array di oggetti
+- utilizzo for each per stampare solo i nomi utilizzando poi arrow function e funzione di callback;
+- stampare tutti i nomi in console
 ---
 
 ### Snack-3
