@@ -22,5 +22,5 @@ const bigApple = mele.filter(mela => mela.diametro >= 7);
 
 const smallApple = mele.filter(mela => mela.diametro < 7);
 
-console.log(Mele grandi (>= 7 cm):, meleGrandi);
-console.log(Mele piccole (< 7 cm):, melePiccole);
+console.log("bigApple (>= 7 cm):", bigApple);
+console.log("smallApple (< 7 cm):", smallApple);
