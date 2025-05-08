@@ -29,7 +29,9 @@
 ---
 
 ### Snack-5
-
+- Avendo un array di numeri;
+- creare un nuovo array solo per i numeri pari utilizzando .filter per selezionare solo i numeri pari dall'array principale;
+- stampare il nuovo array;
 ---
 
 ### Snack-6
