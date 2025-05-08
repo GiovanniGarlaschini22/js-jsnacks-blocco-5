@@ -5,6 +5,7 @@
 - creo una variabile dove nome corrente = names [i]
 - stampare nome corrente;
 (così che attraverso il ciclo viene stampato un nome alla volta secondo l'indice che essendo collegato all'array Edoardo corrisponderà a 0, Simone a 1 e Francesco a 2);
+- stampo l'output
 ---
 
 ### Snack-2
@@ -39,14 +40,19 @@
 - creo un nuovo array per le mele più grandi applicando .filter per selezionare dall'array principale le mele più grosse;
 - creo un terzo array per le mele più piccole di 7cm;
 - ad entrambi gli array utilizzo arrowfunction per restituire il valore true solo se le mele sono grandi.
+- stampo l'output
 ---
 
 ### Snack-7
 - Avendo un array di oggetti che rappresenta gli studenti per nome, età e classe;
 - Creo una varibaile a all'interno della quale fare una funzione con .find all'array students;
 - successivamente La funzione .find prende come argomento una funzione callback (in questo caso mario => mario.id === 2), che viene eseguita su ogni elemento dell’array finché trova quello che soddisfa la condizione.
+- stampo l'output
 ---
 
 ### Snack-8
-
+- Avendo un array di oggetti che rappresenta gli studenti per id, nome, età e classe;
+- Cerco nell'array "students" lo studente con nome 'Marco Lanci' utilizzando .find;
+- Successivamente La funzione .find prende come argomento una funzione callback in questo caso (Marco => Marco.name === 'Marco Lanci'), che viene eseguita su ogni elemento dell’array finché trova quello che soddisfa la condizione.
+- stampo l'output
 ---
