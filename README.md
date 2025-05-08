@@ -42,7 +42,9 @@
 ---
 
 ### Snack-7
-
+- Avendo un array di oggetti che rappresenta gli studenti per nome, età e classe;
+- Creo una varibaile a all'interno della quale fare una funzione con .find all'array students;
+- successivamente La funzione .find prende come argomento una funzione callback (in questo caso mario => mario.id === 2), che viene eseguita su ogni elemento dell’array finché trova quello che soddisfa la condizione.
 ---
 
 ### Snack-8
