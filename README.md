@@ -35,7 +35,10 @@
 ---
 
 ### Snack-6
-
+- Avendo un array di oggetti;
+- creo un nuovo array per le mele più grandi applicando .filter per selezionare dall'array principale le mele più grosse;
+- creo un terzo array per le mele più piccole di 7cm;
+- ad entrambi gli array utilizzo arrowfunction per restituire il valore true solo se le mele sono grandi.
 ---
 
 ### Snack-7
